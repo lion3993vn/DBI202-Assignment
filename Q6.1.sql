@@ -1,0 +1,1 @@
+select Title, BookID, Price, Author from Book where CateID = 'IT'
